@@ -20,7 +20,7 @@
 
 -----------------------------------------------------------------------------------*/
 /*===========================
-    1. COMMON css 
+    1. COMMON css
 ===========================*/
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800");
 body {
@@ -152,7 +152,7 @@ p {
   margin-top: 24px; }
 
 /*===========================
-    2.HEADER css 
+    2.HEADER css
 ===========================*/
 /*===== NAVBAR ONE =====*/
 .navgition {
@@ -425,7 +425,7 @@ p {
       width: 100%; }
 
 /*===========================
-      3.SERVICES css 
+      3.SERVICES css
 ===========================*/
 .services-area {
   padding-top: 120px;
@@ -506,7 +506,7 @@ p {
       width: 100%; }
 
 /*===========================
-      4.PRICING css 
+      4.PRICING css
 ===========================*/
 .pricing-area {
   padding-top: 120px;
@@ -529,6 +529,7 @@ p {
   border-radius: 8px;
   position: relative;
   overflow: hidden;
+  min-height:550px;
   background-color: #fff; }
   .single-pricing .pricing-header .sub-title {
     font-size: 20px;
@@ -644,7 +645,7 @@ p {
     width: 100%; }
 
 /*===========================
-    5.CALL TO ACTION css 
+    5.CALL TO ACTION css
 ===========================*/
 .call-to-action {
   background-color: #0067f4;
@@ -757,7 +758,7 @@ p {
         color: #fff; }
 
 /*===========================
-    6.CALL TO ACTION css 
+    6.CALL TO ACTION css
 ===========================*/
 .contact-area {
   padding-top: 120px;
@@ -831,7 +832,7 @@ p.form-message.error {
   color: #f00; }
 
 /*===========================
-       7.FOOTER css 
+       7.FOOTER css
 ===========================*/
 .footer-area {
   background-color: #f4f6f7; }
